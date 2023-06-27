@@ -57,8 +57,7 @@ class _ArtworkState extends State<Artwork> {
                   _showDescription ?
                     Container(
                       alignment: Alignment.center,
-                      child:
-                      const SizedBox(
+                      child: const SizedBox(
                         height: 300,
                         child: SingleChildScrollView(
                           child: Padding(

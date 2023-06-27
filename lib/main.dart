@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:monalisa/MuseumApp.dart';
+import 'package:monalisa/museum_app.dart';
 
 void main() {
   runApp(MuseumApp());
